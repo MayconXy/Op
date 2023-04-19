@@ -1,0 +1,5 @@
+C:\Users\alpoente - tipo3\Desktop\Teste de programação\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\alpoente - tipo3\Desktop\Teste de programação\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpoente - tipo3\Desktop\Teste de programação\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\alpoente - tipo3\Desktop\Teste de programação\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\alpoente - tipo3\Desktop\Teste de programação\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
